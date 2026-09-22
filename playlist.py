@@ -4,6 +4,7 @@ SONGS = [
     ("Imagine", "John Lennon"),
     ("Blinding Lights", "The Weeknd"),
     ("Viva La Vida", "Coldplay"),
+    ("Magma", "King Gizzard and the Lizard Wizard")
 ]
 
 def print_playlist(songs):
